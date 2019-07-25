@@ -1,0 +1,4 @@
+LIBRARY "dlltest"
+
+EXPORTS
+add @1
